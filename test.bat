@@ -1,1 +1,1 @@
-assoc .exe = .jaydumb
+assoc .exe=.jaydumb
